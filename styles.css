@@ -1,9 +1,10 @@
 /*  your css code here. If applicable */
 .grid-container{
 	display:grid;
-   
+   grid-template-columns:3;
 }
 .grid-container .grid-item{
+	
 	margin:10px;
 	width: 300px;
 	height: 100px;
