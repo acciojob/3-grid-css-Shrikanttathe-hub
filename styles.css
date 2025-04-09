@@ -2,7 +2,7 @@
 .grid-container{
 	display:grid;
 	grid-auto-rows:100px 100px;
-    grid-template-columns: 300px 300px 300px;
+    grid-template-columns: 321.328px 321.336px 321.336px;
 	grid-gap:10px 10px;
 }
 .grid-container .grid-item{
